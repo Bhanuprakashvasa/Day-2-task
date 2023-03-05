@@ -1,0 +1,23 @@
+
+1. Windows Object represents a browser window  that displays the contents of the webpage.
+        SYNTAX: window.property_name;
+        Example: window.innerHeight :-will return the height of the content area of the browser.
+
+2. Document represents any HTML document  that is loaded in the browser.
+       SYNTAX: "document.method_name;"
+       Example: document.title :-will return the title of the document
+
+3. All the tags, elements with attributes in HTML are part of the document.
+
+4. Global objects, functions, and variables of JavaScript are members of the window object.
+
+5. We can access the document from a window using the "window. document".
+
+6. We can access the window from the window only. i.e. "window.window".
+
+7. Differences- The document object stores all of the information about a document, while a window object represents a single instance of a document.
+
+8. Uses- Documents are used to store information, while windows are used to display information.
+
+9. Conclusion- document and window objects are important in computer programming and deserve to be discussed in more detail.
+
